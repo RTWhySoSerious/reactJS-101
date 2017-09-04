@@ -1,5 +1,10 @@
 # reactJS-101
 
 ```
-yarn start
+npm install
+```
+
+
+```
+npm start
 ```
